@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "jeesyn"]
+	url = git@github.com:jeesyn/libnetutils.git
+	fetch = +refs/heads/*:refs/remotes/jeesyn/*
